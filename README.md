@@ -12,7 +12,7 @@ Kelas : TI.20.D1
 * http://nurjanah25.xyz/
 
 ### LINK VIDEO DEMO WEB
-*
+* https://youtu.be/d_H8dg3XMbQ
 
 # UNTUK LOGIN 
 * Email : nurjanah250300@gmail.com
